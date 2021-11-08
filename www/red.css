@@ -2,3 +2,11 @@ body {
   font-family: Poppins;
   background-color: rgb(197, 3, 3);
 }
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 560px;
+  height: 100%;
+
+}
