@@ -21,9 +21,9 @@ body {
 }
 
 .red:hover {
-  color: red;
+  color: rgb(197, 3, 3);
   text-decoration: underline;
-  border: 2px solid red;
+  border: 2px solid rgb(197, 3, 3);
   text-align: center;
 }
 
