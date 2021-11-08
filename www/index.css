@@ -8,3 +8,41 @@ body {
   align-content: center;
   width: 100%;
 }
+
+a {
+  border: 2px solid black;
+  padding: 2px 3px;
+  text-decoration: none;
+  color: black;
+}
+
+.red:hover {
+  color: rgb(193, 7, 7);
+  border: 2px solid rgb(193, 7, 7);
+  text-decoration: underline;
+  text-decoration-color: rgb(193, 7, 7);
+}
+
+.blue:hover {
+  color: rgb(62, 28, 255);
+  border: 2px solid rgb(62, 28, 255);
+  text-decoration: underline;
+  text-decoration-color: rgb(62, 28, 255);
+
+}
+
+.green:hover {
+  color: rgb(20, 233, 126);
+  border: 2px solid rgb(20, 233, 126);
+  text-decoration: underline;
+  text-decoration-color: rgb(20, 233, 126);
+
+}
+
+.yellow:hover {
+  color: rgb(225, 233, 13);
+  border: 2px solid rgb(225, 233, 13);
+  text-decoration: underline;
+  text-decoration-color: rgb(225, 233, 13);
+
+}
