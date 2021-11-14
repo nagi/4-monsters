@@ -43,11 +43,3 @@ a {
   text-decoration-color: rgb(20, 233, 126);
 
 }
-
-.purple:hover {
-  color: rgb(119, 28, 255);
-  border: 2px solid rgb(119, 28, 255);
-  text-decoration: underline;
-  text-decoration-color: rgb(119, 28, 255);
-
-}
