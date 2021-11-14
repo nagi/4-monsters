@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(20, 233, 126);
+  font-family: Poppins;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+}
